@@ -45,6 +45,9 @@ dependencies:
   flutter_riverpod: ^2.0.0-dev.9
   image_picker: ^0.8.6+1
   photo_manager: ^2.5.2
+  flutter_contacts: ^1.1.5+1
+  url_launcher: ^6.1.9
+  firebase_database: ^10.0.9
 
 flutter_native_splash: 
   color: "#FFFFFF"
